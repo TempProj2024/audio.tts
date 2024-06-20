@@ -1,0 +1,4 @@
+#忽略__pycache__
+__pycache__
+#忽略.ipynb_checkpoints
+.ipynb_checkpoints
